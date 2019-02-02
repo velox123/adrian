@@ -1,0 +1,279 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*inceperea*/
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+header {
+	background-color
+	height: 50px;
+	width: 100%;
+}
+
+header img {
+size: 30px;	
+
+}
+
+.div{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+
+nav {
+float: right;
+
+}
+
+nav ul {
+margin-top: 80px;
+margin-right: 40px;
+margin-bottom: 30px;
+}
+ 
+ nav ul li {
+display: inline-block;
+margin-left: 5px;
+ }
+
+ nav ul li a {
+ 	font-family: Arial;
+ 	font-size: 20px;
+ 	margin-right: 100px;
+ }
+
+ .video{
+ 	width: 100%;
+
+ 	margin-left: 35%; 
+ }
+
+.paragraf {
+	margin-left: 450px;
+	font-size:30px;
+	font-family: arial;
+	color: red;
+
+
+}
+
+
+footer {
+	width: 100%;
+	background-color: gray;
+	padding:60px 0px; 
+}
+
+
+footer h1 {
+	text-align: center;
+	font-size: 20px;
+	font-family: Lato;
+	text-decoration: underline;
+	
+}
+
+.despre {
+	font-size: 30px;
+	font-family: arial;
+	margin-left: 150px;
+	margin-right: 500px;
+	margin-bottom: 300px;
+}
+ 
+.h11{
+	margin-left: 40%;
+	font-size: 50px;
+	
+}
+
+
+.p2{
+	font-size:30px;
+	font-family: arial;
+	margin-top: 20px;
+	color: green;
+	margin-left: 330px;
+}
+.p1{
+	font-size:35px;
+	font-family: arial;
+	margin-top: 30px;
+	margin-left: 330px;
+
+}
+
+.p3{
+	margin-top: 20px;
+	font-size:30px;
+	color: red;
+	font-family: arial;
+	margin-left: 330px;
+}
+
+.p4{
+	margin-top: 20px;
+	font-size: 25px;
+	color: lime;
+	font-family: arial;
+	margin-left: 330px;
+}
+.conn {
+	width: 100%;
+	padding: 50px 0px;
+}
+
+input {
+	width: 20%;
+	text-indent: 7.5px;
+	margin-bottom: 5px;
+	border: 1px solid lime;
+} 
+.radio1{
+	width: 2% !important;
+	margin-top: 5px;
+}
+
+.conn textarea {
+	width:400px;
+	height:150px;
+	border: 1px solid lime;
+	resize: none;
+}
+
+.conn button {
+	width: 100px;
+	height: 30px;
+	font-size: 20px;
+	color: white;
+	background-color: red;
+	border:1px solid lime;
+	
+}
+
+
+.nu{
+	color: red;
+	font-size:30px;
+	font-family:arial;
+}
+
+.p5 {
+	font-size: 35px;
+	margin-left: 300px;
+	margin-top: 100px;
+	color: red;
+	font-family: arial;
+}
+
+.beta {
+	font-family: arial;
+}
+.video1 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.video2 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.video3 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.video4 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.video5 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.video6 {
+	width: 100%;
+	
+	margin-left: 30%;
+}
+.vex {
+	color:red;
+}
+.site {
+	font-family: arial;
+	font-size: 30px;
+}
+.b {
+	color:red;
+}
+.pp{
+      color: red;
+      font-family: arial;
+
+
+}
+.p6 {
+	margin-left: 330px;
+	color: blue;
+	font-family: arial;
+	font-size: 40px;
+	margin-top: 10px;
+
+}
+.p7 {
+	margin-left: 330px;
+	color: lime blue;
+	font-family: arial;
+	font-size: 40px;
+	margin-top: 30px;
+
+}
